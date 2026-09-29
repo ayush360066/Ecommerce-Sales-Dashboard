@@ -29,4 +29,4 @@ Source and description of the data.
 Download `ecommerce_sales.pbix` and open it in Power BI Desktop (free).
 
 ## Author
-Your Name · [LinkedIn](https://www.linkedin.com/in/ayush-shukla-313a001b0/?isSelfProfile=true) · [Email]shuklaayush309gmail.com)
+Ayush Kumar Shukla · [LinkedIn](https://www.linkedin.com/in/ayush-shukla-313a001b0/?isSelfProfile=true) · [Email]shuklaayush309gmail.com)
