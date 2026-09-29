@@ -3,7 +3,10 @@
 An interactive Power BI dashboard analyzing e-commerce sales performance.
 
 ## Dashboard Preview
-![Overview](screenshots/overview.png)
+
+
+<img width="1261" height="642" alt="image" src="https://github.com/user-attachments/assets/7321d2f5-b12a-4fc1-bc7a-85c2a9c84538" />
+
 
 ## Objective
 What business questions does this answer? (e.g., top products, revenue trends, regional performance)
